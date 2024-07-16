@@ -1,0 +1,24 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+
+.swim-lanes {
+  min-height: 60vh;
+}
+
+.task-card:hover {
+  cursor: grab;
+}
+
+.task-card.normal {
+  background-color: green;
+}
+
+.task-card.near-deadline {
+  background-color: yellow;
+}
+
+.task-card.overdue {
+  background-color: red;
+}
