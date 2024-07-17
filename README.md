@@ -8,4 +8,6 @@ Task Name, Task Due Date, and Task Description.
 
 When a task is added, it is in a form of a task card and it will automatically appear in the To Do column.  As the user makes process with the task, the task card can be dragged and dropped to the subsequent statuses/columns (In Progress and Done).
 
+The color of the task cards will give a visual of whether the task is within three days of the deadline or is overdue.  When the task is progressing "on time" the task card will be in green.  When the task is within three days of the deadline, the task card will be in yellow.  Lastly, when the task is overdue, the task card will be in red.
+
 The user also has the option to Delete tasks at anytime of the task life cycle. 
